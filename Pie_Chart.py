@@ -1,7 +1,5 @@
 import matplotlib.pyplot as plt
 
-print(plt.style.available)
-
 plt.style.use("fast")
 language=['JavaScript', 'HTML/CSS', 'SQL', 'Python', 'Java']
 users=[59219, 55466, 47544, 36443, 35917]
