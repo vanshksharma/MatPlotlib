@@ -17,6 +17,6 @@ plt.yscale("log")
 
 plt.xlabel("Likes")
 plt.ylabel("Views")
-
+plt.title("Trending Youtube Videos")
 
 plt.show()
